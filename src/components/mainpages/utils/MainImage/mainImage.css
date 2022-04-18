@@ -1,0 +1,10 @@
+.body{
+    align-items: center ;
+    flex: 1;
+}
+
+.image{
+    align-items: center;
+    flex: 1;
+    padding: 3%;
+}
